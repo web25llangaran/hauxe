@@ -1,1 +1,1 @@
-readme aldatu da
+readme aldatu da lokalien
